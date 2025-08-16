@@ -26,6 +26,7 @@ namespace FirstConsoleApplicatio
             Console.Write("Welcome");
             Console.WriteLine("to c#");
             Console.WriteLine("I have added a new line");
+            Console.WriteLine("Welcome to GITHUB");
 
         }
     }
