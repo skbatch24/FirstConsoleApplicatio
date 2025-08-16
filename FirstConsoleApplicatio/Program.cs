@@ -18,6 +18,27 @@ namespace FirstConsoleApplicatio
          * line at a time by unsing(/*and wrting the commentented code and ending 
          * with ) so it is considered as multiline
          * 
+         * A git repository is a storage space where our projects code and
+         * its entire version history are tracked.
+         * we can create locally or clone an exisiting one from
+         * platforms like github,gitlab or bitbucked.
+         * 
+         * Git is a distributed version control system (DVCS) that helps
+         * developers track changes in their codebase.
+         * it was created by Linus Torvalds in 2005 for linuq
+         * kernal development
+         * 
+         * 
+         * version control:Track changes over time,lets you revert to 
+         * previous version
+         * 
+         * Distributed System:Every developer has a full copy of the repository.
+         * 
+         * Branching and Merging:Create isolated branches for 
+         * features or fixes then merge.
+         * Speed and Eficiency : Uses fast operations.
+         * Back up:Every commit is saved providing full history.
+         * 
          * 
          */
         static void Main(string[] args)
